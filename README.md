@@ -71,6 +71,7 @@ Open your browser at http://localhost:5173 to view the app.
 
 
 ### Folder Structure
+```
 ├── public/          # Static assets
 ├── src/             # React source files
 │   ├── components/  # Reusable components
@@ -80,6 +81,7 @@ Open your browser at http://localhost:5173 to view the app.
 ├── .env             # Environment variables
 ├── vite.config.js   # Vite configuration
 └── package.json
+```
 
 ### Contributing
 Feel free to open issues or submit pull requests for improvements or bug fixes.
