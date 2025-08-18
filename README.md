@@ -5,7 +5,6 @@
 ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple?logo=redux)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss)  
 ![Appwrite](https://img.shields.io/badge/Appwrite-Database%20%26%20Auth-EF2D5E?logo=appwrite)  
-![License](https://img.shields.io/badge/License-MIT-green)  
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)  
 
 BlogSphere is a **full-stack blogging platform** where users can **write, read, update, and delete blogs**.  
